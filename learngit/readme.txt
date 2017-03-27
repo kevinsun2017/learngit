@@ -1,5 +1,2 @@
-1,2,3,4,5,6,7,8,9,0
-1,2,3,4,5,6,7,8,9,0
-1,2,3,4,5,6,7,8,9,0
-1,2,3,4,5,6,7,8,9,0
-花见花开
+Git is a distributed version control system.
+Git is free software.
